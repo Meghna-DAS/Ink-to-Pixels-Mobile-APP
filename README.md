@@ -8,7 +8,7 @@ Android Application to extract text from images and perform optical character re
 Java, Firebase ML kit, Android Studio
 
 ## Creator Information👩‍💻
-Team Members Name: Meghna Das, Ayushi Khare, Pragya Pramita Sambodhi<br>
+Team Members Name: Meghna Das, Ayushi Khare, Pragya Parmita Sambodhi<br>
 PRN: 19030121053,19030121021,19030121066 <br>
 Course: BCA<br>
 Semester: IV<br>
